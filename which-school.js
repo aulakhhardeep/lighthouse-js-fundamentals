@@ -1,5 +1,5 @@
 const whichSchool = function(age){
-  if(age >= 1 && age < 13)
+  if(age < 13)
 {
     return "Elementary School";
   }
